@@ -1,1 +1,2 @@
 This the new jupyter file
+In the beginning it wasn't sure that this was a planet
